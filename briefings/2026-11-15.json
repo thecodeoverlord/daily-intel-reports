@@ -3,7 +3,7 @@
   "published": "2026-11-15T02:30:00Z",
   "window": {
     "start": "2026-11-14T05:00:00Z",
-    "end": "2026-11-15T05:00:00Z"
+    "end": "2026-11-15T02:30:00Z"
   },
   "title": "Daily Intel Brief — 15 November 2026",
   "bluf": [
@@ -19,7 +19,8 @@
       "items": [
         {
           "title": "Trump, Xi and Putin to hold first trilateral on 19 November — nukes and Iran, not Ukraine",
-          "confidence": "HIGH on the meeting and the stated agenda · MED on what it produces",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the meeting and the stated agenda · MED on what it produces",
           "summary": "The Kremlin's Dmitry Peskov confirmed Saturday that the three leaders will meet on 19 November in Shenzhen on the APEC sidelines — the first trilateral of its kind. The White House says Trump's priorities are nuclear arms control (New START lapsed in February; Trump wants a 'new, improved' deal including Beijing) and the Iran war. A senior US official said Ukraine will not be on the trilateral agenda because 'China is not really a part of that track.' Reuters reports the agenda and format are still not settled and that smaller states fear a 'new Yalta'. Trump leaves Monday for the Philippines (ASEAN, 17-18 November) before Shenzhen, with a Xi bilateral on Thursday and no separate Putin one-on-one. Musk will travel but sit out the meeting.",
           "sources": [
             { "name": "Anadolu", "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290" },
@@ -66,7 +67,8 @@
         },
         {
           "title": "Iran: IAEA 'increasingly concerned' over Isfahan; inspections frozen; Bahrain radar claim denied",
-          "confidence": "HIGH on the IAEA report · MED on the Bahrain exchange",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the IAEA report · MED on the Bahrain exchange",
           "summary": "A confidential IAEA report circulated Friday says the agency does not know the exact location, safeguards status or contents of the Isfahan Fuel Enrichment Plant, and is 'increasingly concerned'. It cannot conclude that declared material has not been diverted — a 'serious proliferation concern'. More than 400kg of near-weapons-grade uranium produced before the 2025 strikes remains unaccounted for, and Grossi says continuity of knowledge was lost over a year ago. Iran told the agency inspections cannot resume while it faces US threats. Separately, the IRGC claimed it destroyed a US early-warning radar in Bahrain; CENTCOM denied it and said it intercepted two drones. Secretary of State Rubio said economic pressure makes further US strikes 'unnecessary'.",
           "sources": [
             { "name": "Dawn", "url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain" },
@@ -77,7 +79,8 @@
         },
         {
           "title": "Taiwan: China's unnamed 'silent intimidation' drills continue into a second week",
-          "confidence": "HIGH on the deployments · MED on intent",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the deployments · MED on intent",
           "summary": "Taiwan's defence ministry reported 10 PLA aircraft, 8 navy ships and 3 official ships around the island in the 24 hours to Saturday morning, four sorties crossing the median line — the tail of a large unannounced exercise that massed more than 100 vessels at its peak. Taiwan's NSC says large formations from three PLA theatre commands remain east of Taiwan; ISW assesses the PLA is rehearsing an extended isolation of the island, including submarine-launched ballistic missile tests and escorting sustainment vessels through the Miyako Strait. Global Times frames the activity as 'routine', part of an effort to normalise a new status quo. Xi's Thursday Taiwan speech urged 'peaceful unification' without mentioning force. Takaichi attends APEC; a Xi-Takaichi bilateral is judged very unlikely, with Japan braced for a protocol snub.",
           "sources": [
             { "name": "Taiwan News", "url": "https://www.taiwannews.com.tw/news/6476271" },
@@ -142,7 +145,8 @@
         },
         {
           "title": "Hormuz: Iran reports a third tanker-mine incident in 48 hours",
-          "confidence": "HIGH that the claim was made · LOW that mines are the cause",
+          "confidence": "MED",
+          "confidence_note": "HIGH that the claim was made · LOW that mines are the cause",
           "summary": "Iran's Revolutionary Guards navy said three oil tankers caught fire Saturday after striking naval mines in the Strait of Hormuz — one in the eastern strait in the morning, two more later — following its claim of four tanker explosions on 13 November. All accounts trace to Iranian state media; Reuters could not verify them. The IMO says 25 seafarers have died and 134 incidents recorded in the strait and wider region as of 11 November. Thursday's claims briefly added a 3.3% risk premium to Brent, which then gave it back.",
           "sources": [
             { "name": "Al-Monitor", "url": "https://www.al-monitor.com/originals/2026/11/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz" },
@@ -168,7 +172,8 @@
       "items": [
         {
           "title": "Nvidia: Jensen Huang resigns over an affair with an alleged Chinese agent",
-          "confidence": "HIGH on the resignation and the national-security context · MED on the spying assessment",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the resignation and the national-security context · MED on the spying assessment",
           "summary": "Nvidia's board accepted Jensen Huang's resignation as president, CEO and director effective immediately, after he acknowledged an affair with a former Megaspeed executive whom US intelligence assesses was gathering information for China. CFO Colette Kress is interim CEO; the board named Harvey Jones its first-ever chair and says it has not formally engaged candidates (the FT reports it approached Arm's Rene Haas). Beijing denies the spying. Trump had urged Huang to fight for his job. Nvidia reports Q3 FY2027 results on 17 November; its shares fell 2% Friday and posted a sixth straight weekly decline, the longest since October 2012.",
           "sources": [
             { "name": "AP", "url": "https://apnews.com/live/nvidia-ceo-jensen-huang-resignation-news-updates-11-12-2026" },
@@ -224,7 +229,8 @@
       "items": [
         {
           "title": "n0n extortion group lists 38 maritime firms with $1.22bn in demands — likely one vendor's archive",
-          "confidence": "HIGH on the listings · MED on the single-vendor explanation",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the listings · MED on the single-vendor explanation",
           "summary": "The extortion group n0n listed 38 maritime organisations across 18 countries — including Ocean Network Express, Pusan Newport, Santos Brasil, Eurogate Tanger and NEOM Ports — with demands from $400,000 to $400m, totalling about $1.22bn. Cydome assesses at least 21 are documented customers of Seoul-based maritime software vendor CyberLogitec, and that the data likely comes from a single support and project archive split into separate 'victims' rather than 38 breaches; CyberLogitec has not confirmed an incident. SOCRadar found an n0n staging server where the operator used the open-source AI coding agent opencode to 'write and debug hundreds of attack scripts', with AI-model spending of $7,216 by 22 October; access relied on weak or stolen credentials, not a vulnerability.",
           "sources": [
             { "name": "World Ports Organization", "url": "https://www.worldports.org/cyber-group-lists-38-maritime-organisations-with-1-22bn-in-ransom-demands/" },
@@ -235,7 +241,8 @@
         },
         {
           "title": "Quantum Systems breach: malicious drone-software update grounded Bundeswehr drones",
-          "confidence": "HIGH on the incident · MED on attribution",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the incident · MED on attribution",
           "summary": "German drone maker Quantum Systems confirmed an 'active cyberattack by hostile actors' detected in late October, in which a malicious file disguised as a QBase software update was placed on its update-distribution server. The Bundeswehr grounded its Falke (Vector) reconnaissance drones as a precaution and missed a military exercise; the company says the fleet is flying again and that the Bundeswehr was the only customer to ground. German reporting points to a likely Russian background; MAD, BfV and BSI are investigating. Quantum Systems supplies Ukraine and has German-Ukrainian joint ventures.",
           "sources": [
             { "name": "Quantum Systems", "url": "https://quantum-systems.com/news/cyberattack-defeated/" },
@@ -246,7 +253,8 @@
         },
         {
           "title": "Starshield throttling persists along the front line",
-          "confidence": "HIGH that the restriction is real and disputed · MED on cause",
+          "confidence": "MED",
+          "confidence_note": "HIGH that the restriction is real and disputed · MED on cause",
           "summary": "Ukraine says SpaceX's Starshield remains subject to a roughly 161 km/h speed restriction across the entire front line, preventing interceptor drones from catching jet-powered Shaheds; RFE/RL reports failure rates rose from 10% to 100% over three days. SpaceX says it is 'not imposing any restrictions' and points to technical issues; Zelensky disputes that. This is the second such episode since October.",
           "sources": [
             { "name": "RFE/RL", "url": "https://www.rferl.org/a/ukraine-starshield-spacex-russia-missile-airstrikes/33898879.html" },
@@ -307,5 +315,5 @@
       "Gaza casualty figures are Health Ministry figures and should be treated as such."
     ]
   },
-  "corrections": null
+  "corrections": "Adjusted window.end from 05:00Z to 02:30Z to match actual publication cut-off, and moved qualifiers on eight confidence grades into confidence_note (no factual content changed)."
 }
