@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Intel Brief</title>
+    <link>https://github.com/thecodeoverlord/daily-intel-reports</link>
+    <description>Daily open-source summary of global geopolitics, military and economic affairs.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 05:30:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/thecodeoverlord/daily-intel-reports/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daily Intel Brief — 14 November 2026</title>
+      <link>https://github.com/thecodeoverlord/daily-intel-reports/blob/main/briefings/2026-11-14.md</link>
+      <guid isPermaLink="false">2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:00 +0000</pubDate>
+      <description>The White House confirmed the first-ever US–China–Russia trilateral, on the APEC sidelines in Shenzhen on 19 November. Symbolism will outweigh substance, but it puts all three leaders in one room while the Ukraine file stalls. Ukraine: the Kremlin is reaching for a rewritten European security architecture — the December 2021 draft treaties — while the EU calls it a trap and insists on sequencing. Starshield throttling is now failing 100% of Ukrainian interceptor missions. The IEA declared the global oil market back in surplus in Q4 for the first time since the Iran war began. Brent has fallen from $136 to the mid-$90s; diesel remains ~77% above pre-war. Gaza's ceasefire is formally alive and functionally frozen — disarmament-versus-withdrawal deadlock, winter flooding, and a 53-state demand for aid entry.</description>
+    </item>
+  </channel>
+</rss>

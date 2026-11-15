@@ -1,0 +1,282 @@
+{
+  "edition": "2026-11-14",
+  "published": "2026-11-14T05:30:00Z",
+  "window": {
+    "start": "2026-11-13T05:00:00Z",
+    "end": "2026-11-14T05:00:00Z"
+  },
+  "title": "Daily Intel Brief — 14 November 2026",
+  "bluf": [
+    "The White House confirmed the first-ever US–China–Russia trilateral, on the APEC sidelines in Shenzhen on 19 November. Symbolism will outweigh substance, but it puts all three leaders in one room while the Ukraine file stalls.",
+    "Ukraine: the Kremlin is reaching for a rewritten European security architecture — the December 2021 draft treaties — while the EU calls it a trap and insists on sequencing. Starshield throttling is now failing 100% of Ukrainian interceptor missions.",
+    "The IEA declared the global oil market back in surplus in Q4 for the first time since the Iran war began. Brent has fallen from $136 to the mid-$90s; diesel remains ~77% above pre-war.",
+    "Gaza's ceasefire is formally alive and functionally frozen — disarmament-versus-withdrawal deadlock, winter flooding, and a 53-state demand for aid entry."
+  ],
+  "sections": [
+    {
+      "id": "geopolitics",
+      "title": "Geopolitics",
+      "items": [
+        {
+          "title": "Trump, Xi and Putin to hold first trilateral summit — Shenzhen, 19 Nov",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on the announcement, LOW on substance",
+          "summary": "The White House confirmed the three leaders will meet on the APEC sidelines. APEC runs 18–19 November. Analysts expect symbolism rather than breakthrough; the value is procedural, creating one venue where Ukraine, Taiwan, tariffs and Iran can be traded.",
+          "sources": [
+            { "name": "AP", "url": "https://apnews.com/article/trump-xi-putin-summit-china-5fe92253ef38100bae913834a9b74d72" },
+            { "name": "ABC News", "url": "https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914" }
+          ]
+        },
+        {
+          "title": "Kremlin tables maximalist European security demand; EU calls it a trap",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on positions, MED on trajectory",
+          "summary": "After 4.5 hours with Witkoff and Kushner, Moscow demanded 'a new, long-term architecture of indivisible security and peace' — code for reviving the December 2021 draft treaties: a permanent bar on NATO membership for Ukraine and Georgia plus rollback of NATO infrastructure from post-1991 members. Kallas called it a trap; Peskov then walked back European participation.",
+          "sources": [
+            { "name": "BBC", "url": "https://www.bbc.com/news/articles/cq39glwprknjo" }
+          ]
+        },
+        {
+          "title": "EU hardens its line and starts counting the money",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "At the Dublin EPC summit and the informal European Council, EU leaders fixed three principles, including that European security cannot be discussed without Europeans. EU officials estimate a €70bn gap for 2027 on top of the €90bn support loan; Merz is asking for $77bn more. Slovakia, Czechia, Hungary and Bulgaria oppose linking budget approval to Ukraine funding.",
+          "sources": [
+            { "name": "European Council", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/" },
+            { "name": "European Council forward look", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/forward-look-2026/" },
+            { "name": "VOA", "url": "https://www.voanews.com/a/8223031.html" }
+          ]
+        },
+        {
+          "title": "Japan–China rupture enters second year; Xi–Takaichi meeting unlikely",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "A year after Takaichi said a Chinese blockade of Taiwan could threaten Japan's survival, Beijing still demands she retract it. A Xi meeting at APEC is judged 'vanishingly low' probability. Japanese firms are diversifying rare-earth supply; Japanese companies operating in China are down ~30% from 2024.",
+          "sources": [
+            { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-japan-row-over-takaichi-s-taiwan-comment-enters-2nd-year" },
+            { "name": "NHK", "url": "https://www3.nhk.or.jp/nhkworld/news/20261107de72004/" },
+            { "name": "ISPI", "url": "https://www.ispionline.it/en/publication/between-a-rock-and-a-hard-place-takaichi-tries-to-mend-fences-with-beijing-251410" }
+          ]
+        },
+        {
+          "title": "Gaza: ceasefire frozen on sequencing, not on violence",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on positions, MED on casualty figures",
+          "summary": "Hamas will not hand over or centralise weapons before a complete Israeli withdrawal; Israel insists disarmament comes first. UNICEF reports six dead in torrential rain, ~70,000 tents flooded and ~200,000 people affected. 53 countries demanded immediate aid entry. Gaza's Health Ministry reports 1,622 killed since the October 2025 ceasefire.",
+          "sources": [
+            { "name": "DW", "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403" },
+            { "name": "Xinhua", "url": "https://english.news.cn/20261114/39fd34ad8390414fb892ad670f2ef336/c.html" },
+            { "name": "ILKHA", "url": "https://ilkha.com/english/world/hamas-reaffirms-israeli-withdrawal-as-precondition-for-gaza-disarmament-deal-551690" }
+          ]
+        },
+        {
+          "title": "Sudan: army closes on Al-Khuway; second drone from Ethiopia downed",
+          "confidence": "MED",
+          "confidence_note": "",
+          "summary": "The army seized ground around Al-Khuway in West Kordofan and downed a 'strategic drone' that crossed from Ethiopia into Blue Nile state — the second this month. Khartoum has filed UN Security Council and AU complaints against Addis Ababa. ~13 million displaced; WFP has cut recipients from over four million to just over three million.",
+          "sources": [
+            { "name": "Anadolu", "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia/4124681" },
+            { "name": "allAfrica", "url": "https://allafrica.com/stories/202611130101.html" }
+          ]
+        },
+        {
+          "title": "Venezuela: Washington negotiates a basing framework (context)",
+          "confidence": "MED",
+          "confidence_note": "Reported 3 November; tracker refreshed 13 November",
+          "summary": "The State Department is negotiating a Status of Forces Agreement with the Rodríguez government that could establish the legal basis for a long-term US military presence. Trump has referred publicly to 'our conquest of Venezuela'. Reuters reported Vance asking a Vitol trader how quickly Venezuelan crude could be sold if the US gained control of it.",
+          "sources": [
+            { "name": "CEPR", "url": "https://cepr.net/publications/us-escalation-in-the-caribbean-and-latin-america-live-updates-november-2026/" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "title": "Military",
+      "items": [
+        {
+          "title": "Pokrovsk remains the schwerpunkt: 243 engagements in 24 hours",
+          "confidence": "MED",
+          "confidence_note": "Single source: Ukrainian General Staff",
+          "summary": "Ukraine's General Staff reported 243 engagements on 13 November, 47 in the Pokrovsk sector. Russia flew 44 air strikes, dropped 155 guided bombs, employed 3,023 one-way attack drones and shelled 1,775 settlements and positions. The drone-to-shell ratio shows Russia substituting cheap mass for precision while glide-bomb stocks stay constrained.",
+          "sources": [
+            { "name": "Ukrinform", "url": "https://www.ukrinform.net/rubric-ato/4184540-war-update-243-clashes-on-front-line-fiercest-fighting-in-pokrovsk-sector.html" }
+          ]
+        },
+        {
+          "title": "Hormuz: IRGC claims two tankers struck mines, including a supertanker",
+          "confidence": "MED",
+          "confidence_note": "HIGH that the claim was made, MED that mines are the cause",
+          "summary": "The IRGC navy said two tankers running dark on an unauthorised route exploded and caught fire after striking a naval mine; one was a supertanker. It follows a third tanker on 10 November and two on 7 November. The US has blockaded Iranian ports and says the main routes have been cleared of mines, directly contradicting the IRGC.",
+          "sources": [
+            { "name": "CNA", "url": "https://www.channelnewsasia.com/world/iran-says-two-oil-tankers-hit-mines-in-strait-hormuz-6551256" }
+          ]
+        },
+        {
+          "title": "Sudan's drone war spreads across three theatres",
+          "confidence": "MED",
+          "confidence_note": "",
+          "summary": "RSF drones have hit power stations at Al Dabbah, Abu Hamad, Aroma, Halfa El Jadida and Merowe since 1 November, plus fuel depots and civilian infrastructure in Ad-Damazin. Neither side is close to a decision; civilian infrastructure is the deliberate target set.",
+          "sources": [
+            { "name": "Wikipedia timeline (cross-checked)", "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Sudanese_civil_war_(2026)" }
+          ]
+        },
+        {
+          "title": "US intelligence and drones backed a Venezuelan strike on the ELN",
+          "confidence": "MED",
+          "confidence_note": "Four US officials, anonymously, via NYT",
+          "summary": "Venezuelan forces struck an ELN camp in Apure in late October with US intelligence and drone support, killing roughly 20, with a second strike in Bolívar. The pattern matches a train-advise-assist framework in which Venezuelan intelligence supplies targets and US platforms execute.",
+          "sources": [
+            { "name": "Caracas Chronicles", "url": "https://www.caracaschronicles.com/2026/11/11/how-us-venezuela-military-cooperation-looks-like/" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "items": [
+        {
+          "title": "IEA: the oil market is back in surplus",
+          "confidence": "HIGH",
+          "confidence_note": "Primary source",
+          "summary": "Global supply rose 2.3 mb/d in October to 105.4 mb/d; Q4 supply now exceeds forecast demand by 1.7 mb/d. Observed inventories rose 52 mb, the first build since June, though onshore stocks remain the lowest since at least 2016. Brent fell from $136 to $93. A further 71 mb of emergency reserves will be released by end-February, including 15 mb of diesel — still ~77% above pre-war at close to $180/bbl.",
+          "sources": [
+            { "name": "IEA", "url": "https://www.iea.org/reports/oil-market-report-november-2026" },
+            { "name": "Reuters via BNN", "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/" },
+            { "name": "EIA STEO", "url": "https://www.eia.gov/outlooks/steo/report/global_oil.php" }
+          ]
+        },
+        {
+          "title": "Brent settles at $95.84; second consecutive weekly decline",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "Brent settled at $95.84 (+0.02%), WTI at $88.56 (−0.20%). Both fell ~2.5% on the week after 16% and 13% drops the week before. The market is pricing a lower geopolitical risk premium because Washington is sticking with the blockade rather than escalating.",
+          "sources": [
+            { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html" }
+          ]
+        },
+        {
+          "title": "Fed: December hike is priced; the debate is 25 or 50",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on data and pricing, MED on the path",
+          "summary": "October CPI rose 0.4% m/m (consensus 0.3%), core 0.3% (consensus 0.2%); no year-on-year figure was published because October 2025 prices were never collected during the shutdown. Markets price ~88–90% for 25bp in December and ~10–11% for 50bp. The 10-year traded near 4.95%, the 30-year above 5.36%.",
+          "sources": [
+            { "name": "Federal Reserve", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm" },
+            { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/article/hotter-than-expected-october-inflation-report-cements-december-rate-hike-for-fed-135331390.html" },
+            { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html" }
+          ]
+        },
+        {
+          "title": "Equities: first winning week since early October, but chips slid again",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "S&P 500 fell 0.4% Friday but posted a positive week, the first since early October. Dow +0.10%, Nasdaq 100 −1.22% as chipmakers and AI-infrastructure names sold off again. Index-level resilience is carried by non-tech; the AI trade is still de-rating.",
+          "sources": [
+            { "name": "AP", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74" },
+            { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-settle-mostly-lower-213532824.html" }
+          ]
+        },
+        {
+          "title": "OPEC+ holds December targets; next meeting 29 November",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "Seven OPEC+ members kept December output targets unchanged and reconvene on 29 November. OPEC+ crude output rose ~2.04 mb/d in October to 41.23 mb/d — 97% of pre-war February volume. Saudi Arabia reported 10.56 mb/d, up 26.2% m/m.",
+          "sources": [
+            { "name": "OPEC MOMR", "url": "https://publications.opec.org/momr/get/163/416" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "title": "Cyber / Space / Critical Infrastructure",
+      "items": [
+        {
+          "title": "Starshield throttling is now failing 100% of Ukrainian interceptor missions",
+          "confidence": "MED",
+          "confidence_note": "HIGH that the disruption is real and disputed, MED on cause",
+          "summary": "Ukraine says Starshield is imposing a 161 km/h speed ceiling across the front line and occupied territory, so interceptor drones cannot catch jet-powered Shaheds. A Ukrainian official said the failure rate went 10% to 50% to 100% over three days, coinciding with the start of US–Russia talks in Abu Dhabi. SpaceX denies any change. The EU called the reports 'unacceptable' if confirmed. This is the second episode after 14–24 October.",
+          "sources": [
+            { "name": "Axios", "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky" },
+            { "name": "Kyiv Post", "url": "https://www.kyivpost.com/post/90036" },
+            { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html" },
+            { "name": "Politico", "url": "https://www.politico.eu/article/starlink-slowed-down-for-ukraine-again/" }
+          ]
+        },
+        {
+          "title": "UK moves to jail undersea cable saboteurs for up to 14 years",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "The UK is drafting legislation to replace an 1885 statute with penalties of up to 14 years and unlimited fines for deliberately damaging subsea cables and pipelines. Subsea fibre carries ~99% of intercontinental internet traffic; 150–200 faults occur each year, 70–80% from fishing and anchor drag. Industry warns that new cables share corridors and landing points — 'fake diversity'.",
+          "sources": [
+            { "name": "Euronews", "url": "https://www.euronews.com/2026/11/13/why-the-uk-wants-to-jail-undersea-cable-saboteurs-and-why-tougher-punishment-may-not-be-en" }
+          ]
+        },
+        {
+          "title": "Ireland: ~75% of transatlantic cables transit or pass near Irish waters",
+          "confidence": "HIGH",
+          "confidence_note": "",
+          "summary": "The Irish government puts the figure at about 75%, giving the country outsized strategic weight, and it hosts a dense cluster of US data centres. The Russian vessel Yantar was monitored near undersea infrastructure in the Irish Sea in November 2024 and escorted out of the EEZ. In December 2025 a cargo ship damaged Finland–Estonia telecoms cables; a Finnish court convicted its captain and boatswain of aggravated sabotage.",
+          "sources": [
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors" },
+            { "name": "RTE", "url": "https://www.rte.ie/news/a-european-perspective/2026/1112/1598923-spain-cyber-attacks/" }
+          ]
+        },
+        {
+          "title": "GPS interference covered nearly the whole NATO eastern flank (context)",
+          "confidence": "MED",
+          "confidence_note": "3 November data, outside the 24h window",
+          "summary": "Flight-tracking data showed strong satellite-navigation interference in a near-continuous band from the southern Baltic through Lithuania, eastern Poland, Romania and Bulgaria to the western Black Sea. No government has attributed it. ICAO condemned Russia in October 2025 for interference affecting European air operations, but that does not license attribution of any individual incident.",
+          "sources": [
+            { "name": "Defence Blog", "url": "https://defence-blog.com/gps-jamming-hits-almost-all-of-natos-eastern-flank-in-one-day/" }
+          ]
+        },
+        {
+          "title": "Microsoft 365 outage passed 24 hours; FAA ground stop lifted",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on events, MED on cause",
+          "summary": "The Microsoft 365 disruption ran past its 24th hour. Downdetector recorded a peak of ~130,000 Outlook and ~50,000 Microsoft 365 reports from 74 countries; Microsoft says the cause was not a cyberattack. Separately, the FAA issued a nationwide ground stop affecting all US air travel and lifted it after the problem was identified. No link between the two events is established.",
+          "sources": [
+            { "name": "USA Today", "url": "https://www.usatoday.com/story/tech/2026/11/13/microsoft-dismisses-cyberattack-speculation-amid-outage/92759759007/" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/theguardian/2026/nov/14" }
+          ]
+        },
+        {
+          "title": "Sudan: Bank of Khartoum accounts compromised via Bankak app",
+          "confidence": "LOW",
+          "confidence_note": "Single-source, Arabic-language reporting",
+          "summary": "Dabanga reports continued compromise of Bank of Khartoum customer accounts through the Bankak app, with missing balances and police pursuing a fraud network using forged receipts. No attribution has been made public.",
+          "sources": [
+            { "name": "Dabanga", "url": "https://www.dabangasudan.org/ar/all-news/article/%d8%ac%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d9%8a%d9%88%d9%85-13-11-2026" }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    { "when": "16 Nov", "what": "EU Foreign Affairs Council — Ukraine, Syria, Russia's hybrid campaign" },
+    { "when": "17 Nov", "what": "EU FAC Defence — EU–China security, transatlantic" },
+    { "when": "17 Nov", "what": "Maduro immunity hearing, SDNY" },
+    { "when": "18–19 Nov", "what": "APEC Shenzhen; US–China–Russia trilateral on 19 Nov" },
+    { "when": "20 Nov", "what": "EU–UK summit, Brussels" },
+    { "when": "26–27 Nov", "what": "European Council — Ukraine financing, MFF, 22nd sanctions package" },
+    { "when": "29 Nov", "what": "OPEC+ ministerial" },
+    { "when": "December", "what": "FOMC — 25bp base case, 50bp tail ~10%" },
+    { "when": "Ongoing", "what": "Gaza phase-two talks, Cairo — disarmament versus withdrawal" },
+    { "when": "Ongoing", "what": "Sudan — Al-Khuway" },
+    { "when": "Ongoing", "what": "Hormuz — whether CENTCOM rebuts the mining claim on the record" }
+  ],
+  "sourcing": {
+    "method": "13 semantic web searches via Exa, plus direct retrieval of primary documents.",
+    "primary": ["IEA Oil Market Report", "OPEC MOMR", "EIA STEO", "Federal Reserve FOMC", "European Council"],
+    "gaps": [
+      "No Chinese-language or Russian-language primary source consulted.",
+      "Hormuz mine attribution remains contested between IRGC and CENTCOM.",
+      "Gaza casualty figures are Health Ministry figures.",
+      "Sudan displacement figures are UN estimates.",
+      "No link between the Microsoft outage and the FAA ground stop is established."
+    ]
+  },
+  "corrections": "Supersedes the 14 November test run, which understated the Hormuz incident and flattened a US–Russia disagreement over European participation into false consensus."
+}
