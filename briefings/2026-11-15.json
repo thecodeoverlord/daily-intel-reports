@@ -1,0 +1,311 @@
+{
+  "edition": "2026-11-15",
+  "published": "2026-11-15T02:30:00Z",
+  "window": {
+    "start": "2026-11-14T05:00:00Z",
+    "end": "2026-11-15T05:00:00Z"
+  },
+  "title": "Daily Intel Brief — 15 November 2026",
+  "bluf": [
+    "The trilateral is on for 19 November in Shenzhen — nuclear arms and Iran on the agenda, Ukraine explicitly off it. In parallel, Zelensky disclosed that Washington floated Ukraine ceding the Donbas in exchange for NATO membership. The two tracks are pulling apart: one is great-power theatre, the other a hard territorial bargain Kyiv has not accepted.",
+    "Nvidia's Jensen Huang resigned over an affair with a woman US intelligence assesses as a Chinese agent. The AI trade is de-rating — Nvidia's sixth straight down week, semiconductors off 3.4% — and the company reports Q3 earnings on 17 November under an interim CEO. A national-security story wearing a market costume.",
+    "Ukraine's deep-strike campaign is compounding: a tenth Russian refinery hit in two weeks, radar kills that induced Russian friendly fire, and a third fuel crisis in a year. Hormuz added a third tanker-mine claim in 48 hours, while the IAEA says it has lost continuity of knowledge over Iran's enriched-uranium stock.",
+    "Gaza's ceasefire is being eroded by strikes and winter, not by a formal collapse: 17 states condemned the Nasser Hospital strike, flooding has hit over 100,000 people, and Israel's aid restrictions persist."
+  ],
+  "sections": [
+    {
+      "id": "geopolitics",
+      "title": "Geopolitics",
+      "items": [
+        {
+          "title": "Trump, Xi and Putin to hold first trilateral on 19 November — nukes and Iran, not Ukraine",
+          "confidence": "HIGH on the meeting and the stated agenda · MED on what it produces",
+          "summary": "The Kremlin's Dmitry Peskov confirmed Saturday that the three leaders will meet on 19 November in Shenzhen on the APEC sidelines — the first trilateral of its kind. The White House says Trump's priorities are nuclear arms control (New START lapsed in February; Trump wants a 'new, improved' deal including Beijing) and the Iran war. A senior US official said Ukraine will not be on the trilateral agenda because 'China is not really a part of that track.' Reuters reports the agenda and format are still not settled and that smaller states fear a 'new Yalta'. Trump leaves Monday for the Philippines (ASEAN, 17-18 November) before Shenzhen, with a Xi bilateral on Thursday and no separate Putin one-on-one. Musk will travel but sit out the meeting.",
+          "sources": [
+            { "name": "Anadolu", "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290" },
+            { "name": "Reuters", "url": "https://www.reuters.com/5f374b32b07b/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect" },
+            { "name": "BBC", "url": "https://www.bbc.com/news/articles/ckz74jzpy18do" },
+            { "name": "France 24", "url": "https://www.france24.com/en/live-news/20261114-trump-xi-putin-to-hold-historic-meeting-in-china-white-house" }
+          ]
+        },
+        {
+          "title": "Zelensky: Washington floated ceding the Donbas for NATO membership",
+          "confidence": "MED",
+          "confidence_note": "Zelensky's account, broadcast; no US confirmation",
+          "summary": "Zelensky said in comments broadcast Saturday that the US, for the first time, raised Ukraine ceding territory in exchange for NATO membership, and that Moscow rejected an energy truce during the Abu Dhabi talks. He said he would put any such guarantee to Ukrainian society. Russia has signalled it will not retreat on territorial demands and rejects foreign peacekeepers. Kushner and Witkoff met Putin in Moscow and Zelensky in Dublin; Kushner says Putin will give European participation 'a try', and Moscow has softened its earlier insistence that Europe has no place at the table.",
+          "sources": [
+            { "name": "Euronews", "url": "https://www.euronews.com/2026/11/14" },
+            { "name": "L'Orient Today", "url": "https://today.lorientlejour.com/article/1554470/evening-update-aoun-reaffirms-commitment-to-resolution-1701-geagea-criticizes-state-hariri-meets-lavrov-bilal-erdogan-wraps-up-akkar-tour.html" },
+            { "name": "Xinhua", "url": "https://english.news.cn/20261114/29ab40daef2043c084f16bc7766e2c36/c.html" }
+          ]
+        },
+        {
+          "title": "EU sets 22nd sanctions package and Ukraine's 2027 financing for the 26-27 November Council",
+          "confidence": "HIGH",
+          "summary": "Von der Leyen said the Commission will bring both the 22nd Russia sanctions package and a proposal to close Ukraine's 2027 financing gap before the special European Council on 26-27 November. The package is expected to target banks, crypto platforms and third-country circumvention, and may bar Russian and Belarusian athletes from EU-hosted events. Zelensky's Dublin and Copenhagen tour produced a €645m Danish defence package, €20m energy aid and fresh UK oil-sector sanctions; he says Kyiv aims to close the last two EU accession clusters by year-end. Kallas drew a hard line: sanctions and frozen assets are 'European decisions' the US 'can't negotiate on our behalf.'",
+          "sources": [
+            { "name": "European Council", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/" },
+            { "name": "The Brussels Times", "url": "https://www.brusselstimes.com/eu-affairs/2405923/eu-pledges-winter-aid-and-post-war-roadmap-in-ukraine-support-push" },
+            { "name": "Kyiv Post", "url": "https://www.kyivpost.com/post/90117" },
+            { "name": "The Straits Times", "url": "https://www.straitstimes.com/world/europe/eu-to-present-new-russia-sanctions-package-ukraine-funding-measures-by-year-end" },
+            { "name": "Clash Report", "url": "https://clashreport.com/world/articles/kallas-says-us-can-t-negotiate-on-our-behalf-on-russia-sanctions-mclj9b6nnv" }
+          ]
+        },
+        {
+          "title": "Gaza: 17 states and the EU condemn the Nasser Hospital strike; flooding compounds the crisis",
+          "confidence": "HIGH",
+          "summary": "Foreign ministers of 17 Arab and Islamic states — including Saudi Arabia, the UAE, Jordan, Qatar, Egypt, Türkiye, Pakistan and Indonesia — issued a joint statement 'condemning in the strongest terms' the 12 November Israeli strike on the Nasser Medical Complex in Khan Younis, which killed at least six including a surgeon, and demanded full implementation of the ceasefire and unimpeded aid. The EU issued its own statement, calling the strike 'deeply alarming' and urging Israel to reopen all crossings. UN OCHA says more than 150,000 tents remain outside Gaza; UNICEF reports flooding directly affected at least 106,000 people with 40,000+ shelters damaged; WHO warns respiratory infections are rising. Egypt, Türkiye and Qatar intelligence chiefs met in Cairo. Israel says 93,000 tents and 8,600 truckloads have entered.",
+          "sources": [
+            { "name": "UAE Ministry of Foreign Affairs", "url": "https://www.mofa.gov.ae/en/mediahub/news/2026/11/14/uae-joint-statement" },
+            { "name": "EEAS", "url": "https://www.eeas.europa.eu/eu-border-assistance-mission-rafah-crossing-point/israelpalestine-statement-high-representative-behalf-european-union-humanitarian-developments-gaza_en" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza" },
+            { "name": "Middle East Eye", "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-partners-urge-israel-lift-restrictions-aid-gaza" },
+            { "name": "Arab News", "url": "https://www.arabnews.com/middle-east/eu-urges-israel-to-allow-immediate-unimpeded-aid-into-flood-hit-gaza-3011938" }
+          ]
+        },
+        {
+          "title": "Iran: IAEA 'increasingly concerned' over Isfahan; inspections frozen; Bahrain radar claim denied",
+          "confidence": "HIGH on the IAEA report · MED on the Bahrain exchange",
+          "summary": "A confidential IAEA report circulated Friday says the agency does not know the exact location, safeguards status or contents of the Isfahan Fuel Enrichment Plant, and is 'increasingly concerned'. It cannot conclude that declared material has not been diverted — a 'serious proliferation concern'. More than 400kg of near-weapons-grade uranium produced before the 2025 strikes remains unaccounted for, and Grossi says continuity of knowledge was lost over a year ago. Iran told the agency inspections cannot resume while it faces US threats. Separately, the IRGC claimed it destroyed a US early-warning radar in Bahrain; CENTCOM denied it and said it intercepted two drones. Secretary of State Rubio said economic pressure makes further US strikes 'unnecessary'.",
+          "sources": [
+            { "name": "Dawn", "url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz" },
+            { "name": "Internationly", "url": "https://www.internationly.com/news/u-n-watchdog-agency-pushes-for-access-to-key-iran-nuclear-site" }
+          ]
+        },
+        {
+          "title": "Taiwan: China's unnamed 'silent intimidation' drills continue into a second week",
+          "confidence": "HIGH on the deployments · MED on intent",
+          "summary": "Taiwan's defence ministry reported 10 PLA aircraft, 8 navy ships and 3 official ships around the island in the 24 hours to Saturday morning, four sorties crossing the median line — the tail of a large unannounced exercise that massed more than 100 vessels at its peak. Taiwan's NSC says large formations from three PLA theatre commands remain east of Taiwan; ISW assesses the PLA is rehearsing an extended isolation of the island, including submarine-launched ballistic missile tests and escorting sustainment vessels through the Miyako Strait. Global Times frames the activity as 'routine', part of an effort to normalise a new status quo. Xi's Thursday Taiwan speech urged 'peaceful unification' without mentioning force. Takaichi attends APEC; a Xi-Takaichi bilateral is judged very unlikely, with Japan braced for a protocol snub.",
+          "sources": [
+            { "name": "Taiwan News", "url": "https://www.taiwannews.com.tw/news/6476271" },
+            { "name": "Institute for the Study of War", "url": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-13-2026/" },
+            { "name": "Taipei Times", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710" },
+            { "name": "Taiwan MND", "url": "https://www.mnd.gov.tw/en/news/plaact/88212" },
+            { "name": "Kyodo News", "url": "https://english.kyodonews.net/articles/-/90984" }
+          ]
+        },
+        {
+          "title": "Sudan: army recaptures Al-Khuway and closes on Al-Nahud",
+          "confidence": "MED",
+          "confidence_note": "belligerent-sourced; front lines fluid",
+          "summary": "The SAF and allied Joint Force said they retook Al-Khuway in West Kordofan — RSF-held since May 2025 — along with Sarif Ankoush, Umm Labana and Al-Dudiya, and on Saturday took Khamasat, Markab and Umm Oweisha, advancing on Al-Nahud, the RSF's key West Kordofan hub and gateway to Darfur. The offensive broke the 18-month RSF siege of El Obeid. A drone attack on displaced people in Bani Shako al-Kili reportedly killed 16. The Independent reports about 14 million displaced, 20 million acutely food-insecure, and a UN appeal 40% unfunded.",
+          "sources": [
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf" },
+            { "name": "Sudans Post", "url": "https://www.sudanspost.com/sudanese-army-advances-on-al-nahud-after-major-gains-in-west-kordofan/" },
+            { "name": "Anadolu", "url": "https://aa.com.tr/en/middle-east/sudanese-army-seizes-3-areas-in-west-kordofan-amid-fighting-with-rsf-military-sources/4125446" },
+            { "name": "Conflict Tracker", "url": "https://conflict-tracker.com/conflicts/sudan" },
+            { "name": "The Independent", "url": "https://khanlist.com/story/inside-sudan-the-war-the-world-ignored-where-nowhere-is-safe-551a4e97" }
+          ]
+        },
+        {
+          "title": "Venezuela: fourth round of US-backed talks opens with the electoral council as the linchpin",
+          "confidence": "MED",
+          "summary": "Government and opposition delegations opened a fourth round in Caracas behind closed doors, with reform of the National Electoral Council the central demand before any presidential election. Foro Penal counts 321 political prisoners; the opposition is pressing for a full release. Roughly $4bn in Venezuelan gold remains frozen at the Bank of England. María Corina Machado, back in the country since 25 October, is not at the table. ExxonMobil is exploring a return nearly 20 years after nationalisation; the US says it has collected and disbursed more than $12bn in Venezuelan oil revenue since January.",
+          "sources": [
+            { "name": "Latin Times", "url": "https://www.latintimes.com/venezuela-talks-electoral-reform-political-prisoners-601339" },
+            { "name": "14ymedio", "url": "https://www.14ymedio.com/internacional/acordado-pendiente-dialogo-venezolano_1_1133159.html" },
+            { "name": "NPR", "url": "https://www.npr.org/2026/11/14/nx-s1-6039171/exxonmobil-eyes-venezuela-return-as-reality-tests-trumps-oil-deal-promises" },
+            { "name": "CEPR", "url": "https://cepr.net/publications/us-escalation-in-the-caribbean-and-latin-america-live-updates-november-2026/" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "title": "Military",
+      "items": [
+        {
+          "title": "Pokrovsk stays the schwerpunkt; Russia hits Ukraine's grid",
+          "confidence": "MED",
+          "confidence_note": "single source (Ukrainian General Staff); routine reporting",
+          "summary": "Ukraine's General Staff reported 54 combat engagements in the day to 14 November, 15 of them on the Pokrovsk axis, with 61 air strikes, 188 guided bombs and 5,230 one-way attack drones. Russian strikes hit 330kV substations near Konotop and Izium (29,400 without power), the Nova Poshta terminal in Korotych, and killed two in Odesa and a 17-year-old in Zaporizhzhia; a downed drone set fire to Kyiv's Institute of Traumatology. The Pokrovsk axis remains the axis of effort.",
+          "sources": [
+            { "name": "LB.ua", "url": "https://en.lb.ua/news/2026/11/14/49884_54_clashes_reported_front_line.html" },
+            { "name": "OsintRep", "url": "https://www.osintrep.com/osint-briefing-14-11-2026-0705/" }
+          ]
+        },
+        {
+          "title": "Ukraine's deep-strike campaign: a tenth refinery in two weeks",
+          "confidence": "MED",
+          "confidence_note": "belligerent and OSINT sourcing; damage unverified",
+          "summary": "Ukrainian drones hit Lukoil's Volgograd refinery overnight into 13 November — at least the tenth Russian refinery struck in two weeks and the eighth since 30 October — and again hit Transneft's Samara pumping station, killing four. Neptune missiles struck drone production and repair sites in Rostov; SBU strikes destroyed radar systems in Leningrad Oblast (Nebo-U, Sopka-2), after which Russian air defences reportedly downed their own Ka-52, Mi-8 and MiG-31, killing seven crew. Omsk, Russia's largest refinery, was hit for a third time on 11 November. Analyst Sergey Vakulenko estimates refineries accounting for about 55% of Russia's petrol and diesel have been hit. Russia claims 1,198 drones downed.",
+          "sources": [
+            { "name": "Kyiv Post", "url": "https://www.kyivpost.com/post/89990" },
+            { "name": "Reuters", "url": "https://www.reuters.com/3fec1b0a85a0/world/europe/four-killed-ukrainian-drone-strike-industrial-zone-russias-volgograd-official-2026-11-13/" },
+            { "name": "bne IntelliNews", "url": "https://www.intellinews.com/russia-s-third-fuel-crisis-could-be-its-worst-as-ukraine-s-drones-hit-refineries-484909/" },
+            { "name": "SOFREP", "url": "https://sofrep.com/news/ukrainian-special-operations-strike-russian-refineries-in-siberia-again/" },
+            { "name": "24 Kanal", "url": "https://24tv.ua/en/strikes-on-oil-refineries-iskander-missiles-and-rubicon-how-ukraine_n3180422" }
+          ]
+        },
+        {
+          "title": "Hormuz: Iran reports a third tanker-mine incident in 48 hours",
+          "confidence": "HIGH that the claim was made · LOW that mines are the cause",
+          "summary": "Iran's Revolutionary Guards navy said three oil tankers caught fire Saturday after striking naval mines in the Strait of Hormuz — one in the eastern strait in the morning, two more later — following its claim of four tanker explosions on 13 November. All accounts trace to Iranian state media; Reuters could not verify them. The IMO says 25 seafarers have died and 134 incidents recorded in the strait and wider region as of 11 November. Thursday's claims briefly added a 3.3% risk premium to Brent, which then gave it back.",
+          "sources": [
+            { "name": "Al-Monitor", "url": "https://www.al-monitor.com/originals/2026/11/irans-navy-says-three-tankers-fire-after-hitting-mines-hormuz" },
+            { "name": "Reuters via The Star", "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/oil-prices-suffer-a-second-straight-weekly-drop-on-signs-of-a-growing-supply-surplus" },
+            { "name": "Dawn", "url": "https://www.dawn.com/news/2044367/iran-claims-us-denies-strike-on-radar-in-bahrain" }
+          ]
+        },
+        {
+          "title": "Lebanon: Israeli strikes continue as UNIFIL's mandate nears expiry",
+          "confidence": "MED",
+          "summary": "Israeli airstrikes, artillery and controlled detonations were reported across southern Lebanon on Saturday — Kfar Tebnit, Qantara, Khiam, Haddatha, Mansouri and others — with Israeli armour seen inside Arnoun. Hezbollah's Ali Mokdad said the 'monopoly on weapons will not happen now or in a hundred years,' hardening the party's line as UNIFIL's mandate runs to 31 December. President Aoun reaffirmed Resolution 1701 with a UN delegation; US Ambassador to the UN Mike Waltz is expected in Beirut; the US and France are preparing a draft Security Council resolution on the post-UNIFIL arrangement.",
+          "sources": [
+            { "name": "Profile News", "url": "https://www.profilenews.com/en/southern-lebanon-israeli-strikes-11-14-2026/" },
+            { "name": "Ynet", "url": "https://www.ynetnews.com/article/zjswxbf0i" },
+            { "name": "L'Orient Today", "url": "https://today.lorientlejour.com/article/1554470/evening-update-aoun-reaffirms-commitment-to-resolution-1701-geagea-criticizes-state-hariri-meets-lavrov-bilal-erdogan-wraps-up-akkar-tour.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "items": [
+        {
+          "title": "Nvidia: Jensen Huang resigns over an affair with an alleged Chinese agent",
+          "confidence": "HIGH on the resignation and the national-security context · MED on the spying assessment",
+          "summary": "Nvidia's board accepted Jensen Huang's resignation as president, CEO and director effective immediately, after he acknowledged an affair with a former Megaspeed executive whom US intelligence assesses was gathering information for China. CFO Colette Kress is interim CEO; the board named Harvey Jones its first-ever chair and says it has not formally engaged candidates (the FT reports it approached Arm's Rene Haas). Beijing denies the spying. Trump had urged Huang to fight for his job. Nvidia reports Q3 FY2027 results on 17 November; its shares fell 2% Friday and posted a sixth straight weekly decline, the longest since October 2012.",
+          "sources": [
+            { "name": "AP", "url": "https://apnews.com/live/nvidia-ceo-jensen-huang-resignation-news-updates-11-12-2026" },
+            { "name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition" },
+            { "name": "SEC filing (Form 8-K)", "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm" },
+            { "name": "Reuters via Investing.com", "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980" },
+            { "name": "CNBC", "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html" }
+          ]
+        },
+        {
+          "title": "Markets: a winning week with a de-rating AI core; December hike locked in",
+          "confidence": "HIGH",
+          "summary": "All three major US indices gained on the week — S&P +2.51%, Nasdaq +2.27%, Dow +2.07% — snapping four straight weekly declines, but Friday was mixed (Dow +0.10% to 52,347.55; S&P -0.40% to 7,561.67; Nasdaq -0.91% to 25,136.27). The Philadelphia Semiconductor Index fell 3.4%, with AMD -8.8% and Broadcom -4.8%; Nvidia reports Tuesday. The 10-year traded above 5.1% and the dollar hit a 19-month high. October PPI came in cool, but the December hike is fully priced, with about 10% for 50bp; Daly and Collins both signalled more tightening.",
+          "sources": [
+            { "name": "Anadolu", "url": "https://www.aa.com.tr/en/americas/us-stocks-close-mixed-as-tech-losses-weigh-on-nasdaq-europe-mostly-up/4124808" },
+            { "name": "Business Standard", "url": "https://www.business-standard.com/world-news/us-stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-126111400058_1.html" },
+            { "name": "Reuters via Moneycontrol", "url": "https://www.moneycontrol.com/news/business/s-p-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares-14080000.html/amp" }
+          ]
+        },
+        {
+          "title": "Oil: second straight weekly loss as the surplus narrative takes hold",
+          "confidence": "HIGH",
+          "summary": "Brent settled at $95.84 (+0.02%) and WTI at $88.56 (-0.20%) on Friday, both down about 2.5% on the week after 16% and 13% falls the week before. The IEA's November report put Q4 supply 1.7 mb/d above demand — the first surplus since the war began — and Brent is about 20% below its late-October high near $118. US commercial crude stocks rose about 4.7 mb to 414.4 mb. Diesel remains the tight spot.",
+          "sources": [
+            { "name": "IEA", "url": "https://www.iea.org/reports/oil-market-report-november-2026" },
+            { "name": "Reuters via The Star", "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/oil-prices-suffer-a-second-straight-weekly-drop-on-signs-of-a-growing-supply-surplus" },
+            { "name": "HDFC Sky", "url": "https://hdfcsky.com/news/crude-oil-slides-2-4percent-to-95-41-as-opec-output-surge-and-us-inventory-build-overpower-hormuz-risk-premium" }
+          ]
+        },
+        {
+          "title": "Venezuela's oil reopens to majors as the transition stalls",
+          "confidence": "MED",
+          "summary": "ExxonMobil has taken a step toward returning to Venezuela nearly 20 years after nationalisation, encouraged by a revised petroleum law and by Middle East supply risk. The US says it has collected and disbursed more than $12bn in Venezuelan oil revenue since January, mostly through Vitol and Trafigura, which together accounted for 61% of deposits by end-September. A US-brokered deal involving 17 fields and the little-known North American Blue Energy Partners is disputed — Washington calls it a 100-year deal, Caracas 25.",
+          "sources": [
+            { "name": "NPR", "url": "https://www.npr.org/2026/11/14/nx-s1-6039171/exxonmobil-eyes-venezuela-return-as-reality-tests-trumps-oil-deal-promises" },
+            { "name": "CEPR", "url": "https://cepr.net/publications/us-escalation-in-the-caribbean-and-latin-america-live-updates-november-2026/" }
+          ]
+        },
+        {
+          "title": "Türkiye and Qatar sign a mutual defence pact",
+          "confidence": "HIGH",
+          "summary": "Türkiye and Qatar signed five agreements, including a mutual defence pact, at the 12th Türkiye-Qatar High Strategic Committee in Istanbul, framed as a 'unified position' against external attack. It lands as Gulf states hedge against a shrinking US security footprint after the Iran war.",
+          "sources": [
+            { "name": "Euronews", "url": "https://www.euronews.com/2026/11/14" },
+            { "name": "Anadolu", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "title": "Cyber / Space / Critical Infrastructure",
+      "items": [
+        {
+          "title": "n0n extortion group lists 38 maritime firms with $1.22bn in demands — likely one vendor's archive",
+          "confidence": "HIGH on the listings · MED on the single-vendor explanation",
+          "summary": "The extortion group n0n listed 38 maritime organisations across 18 countries — including Ocean Network Express, Pusan Newport, Santos Brasil, Eurogate Tanger and NEOM Ports — with demands from $400,000 to $400m, totalling about $1.22bn. Cydome assesses at least 21 are documented customers of Seoul-based maritime software vendor CyberLogitec, and that the data likely comes from a single support and project archive split into separate 'victims' rather than 38 breaches; CyberLogitec has not confirmed an incident. SOCRadar found an n0n staging server where the operator used the open-source AI coding agent opencode to 'write and debug hundreds of attack scripts', with AI-model spending of $7,216 by 22 October; access relied on weak or stolen credentials, not a vulnerability.",
+          "sources": [
+            { "name": "World Ports Organization", "url": "https://www.worldports.org/cyber-group-lists-38-maritime-organisations-with-1-22bn-in-ransom-demands/" },
+            { "name": "Cydome", "url": "https://cydome.io/n0n-cyber-extortion-incident-involving-38-maritime-companies-likely-traces-back-to-a-single-vendor/" },
+            { "name": "SOCRadar via Cybersecurity ASEAN", "url": "https://cybersecurityasean.com/daily-news/n0n-ransomware-maritime-ocean-network-express-pelindo-kandla" },
+            { "name": "The Maritime Executive", "url": "https://maritime-executive.com/article/massive-cyber-attack-threatens-release-of-data-from-38-maritime-companies" }
+          ]
+        },
+        {
+          "title": "Quantum Systems breach: malicious drone-software update grounded Bundeswehr drones",
+          "confidence": "HIGH on the incident · MED on attribution",
+          "summary": "German drone maker Quantum Systems confirmed an 'active cyberattack by hostile actors' detected in late October, in which a malicious file disguised as a QBase software update was placed on its update-distribution server. The Bundeswehr grounded its Falke (Vector) reconnaissance drones as a precaution and missed a military exercise; the company says the fleet is flying again and that the Bundeswehr was the only customer to ground. German reporting points to a likely Russian background; MAD, BfV and BSI are investigating. Quantum Systems supplies Ukraine and has German-Ukrainian joint ventures.",
+          "sources": [
+            { "name": "Quantum Systems", "url": "https://quantum-systems.com/news/cyberattack-defeated/" },
+            { "name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/" },
+            { "name": "The Register", "url": "https://www.theregister.com/security/2026/11/13/quantum_systems_drones_back_in_the_air/" },
+            { "name": "tagesschau", "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html" }
+          ]
+        },
+        {
+          "title": "Starshield throttling persists along the front line",
+          "confidence": "HIGH that the restriction is real and disputed · MED on cause",
+          "summary": "Ukraine says SpaceX's Starshield remains subject to a roughly 161 km/h speed restriction across the entire front line, preventing interceptor drones from catching jet-powered Shaheds; RFE/RL reports failure rates rose from 10% to 100% over three days. SpaceX says it is 'not imposing any restrictions' and points to technical issues; Zelensky disputes that. This is the second such episode since October.",
+          "sources": [
+            { "name": "RFE/RL", "url": "https://www.rferl.org/a/ukraine-starshield-spacex-russia-missile-airstrikes/33898879.html" },
+            { "name": "Axios", "url": "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky" },
+            { "name": "Kyiv Post", "url": "https://www.kyivpost.com/post/90036" }
+          ]
+        },
+        {
+          "title": "Microsoft restores services after global outage; US airspace recovers",
+          "confidence": "HIGH",
+          "summary": "Microsoft said services were fully restored after a multi-hour global outage affecting Outlook, Teams and Copilot, with reports from more than 70 countries; it denied a cyberattack. The FAA's nationwide ground stop — triggered by an air-traffic-control communications failure — was lifted early Saturday after roughly four hours, with about 6,000 flights cancelled worldwide; the transport secretary warned of continued delays. The two events are not established as linked.",
+          "sources": [
+            { "name": "The Hindu", "url": "https://www.thehindu.com/news/top-news-of-the-day-november-14-2026/article71701553.ece" },
+            { "name": "Dawn", "url": "https://www.dawn.com/latest-news/2026-11-14" },
+            { "name": "Euronews", "url": "https://www.euronews.com/2026/11/14" }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    { "when": "16 Nov", "what": "EU Foreign Affairs Council — first formal EU read on Russia's security-architecture demand" },
+    { "when": "16-18 Nov", "what": "Trump to Manila (ASEAN) then Shenzhen; possible Xi bilaterals" },
+    { "when": "17 Nov", "what": "EU FAC Defence — whether Europe links China policy to the Ukraine file" },
+    { "when": "17 Nov", "what": "Nvidia Q3 FY2027 earnings — first test of the AI trade under an interim CEO" },
+    { "when": "17 Nov", "what": "PDVSA Commercial Creditors Committee launch, Caracas" },
+    { "when": "18-19 Nov", "what": "APEC Shenzhen; the single highest-variance event of the week" },
+    { "when": "19 Nov", "what": "Trump-Xi-Putin trilateral — nuclear arms and Iran; Ukraine off the agenda" },
+    { "when": "20 Nov", "what": "EU-UK summit, Brussels — pressure on London for Ukraine's 2027 defence bill" },
+    { "when": "20-22 Nov", "what": "SCO Civilizational Dialogue, New Delhi — first Pakistani ministerial visit to India in over three years" },
+    { "when": "26-27 Nov", "what": "European Council — 22nd sanctions package and Ukraine's 2027 financing" },
+    { "when": "29 Nov", "what": "OPEC+ ministerial — December targets after the surplus call" },
+    { "when": "11 Dec", "what": "Venezuela: new Supreme Court designations due — the gate to CNE reform and any election date" },
+    { "when": "18 Dec", "what": "OFAC GL 5AA — PDVSA 2020 bond dealings" },
+    { "when": "31 Dec", "what": "UNIFIL mandate expires — post-UNIFIL arrangement in south Lebanon" },
+    { "when": "December", "what": "FOMC — 25bp base case; 50bp tail about 10%" },
+    { "when": "Ongoing", "what": "Gaza phase-two talks, Cairo — disarmament-versus-withdrawal sequencing" },
+    { "when": "Ongoing", "what": "Sudan — Al-Nahud: the fall of the RSF hub would shift Kordofan and Darfur" },
+    { "when": "Ongoing", "what": "Hormuz — whether CENTCOM rebuts the latest mining claims on the record" }
+  ],
+  "sourcing": {
+    "method": "29 semantic web searches via Exa, plus direct retrieval of primary documents. Search carried the edition because it reached non-anglophone and specialist sources that RSS alone did not: Anadolu, Xinhua, Al Jazeera, Al-Monitor, Sudans Post, Latin Times, 14ymedio, Taiwan News, Taipei Times, bne IntelliNews, tagesschau and the Korean-press coverage of the n0n case.",
+    "primary": [
+      "IAEA quarterly report (via AFP, Reuters and Al Jazeera)",
+      "NVIDIA SEC Form 8-K and newsroom statement",
+      "European Council joint statement and EEAS statement on Gaza",
+      "UAE Ministry of Foreign Affairs joint statement",
+      "IEA Oil Market Report (November 2026)",
+      "Ukrainian General Staff operational updates",
+      "Taiwan Ministry of National Defense PLA-activity reports",
+      "Cydome interim assessment and Quantum Systems statement"
+    ],
+    "gaps": [
+      "No Chinese-language or Russian-language primary source was consulted; both would be needed to grade the trilateral and the Kremlin's position above MED.",
+      "Hormuz mine attribution remains contested: IRGC claims versus CENTCOM statements. The Bahrain radar strike is unconfirmed.",
+      "The Nvidia espionage assessment rests on US intelligence reporting via the New York Times; Beijing denies it.",
+      "Sudan front lines are fluid and largely belligerent-sourced; casualty and displacement figures are UN estimates with wide error bars.",
+      "Gaza casualty figures are Health Ministry figures and should be treated as such."
+    ]
+  },
+  "corrections": null
+}

@@ -5,8 +5,15 @@
     <link>https://github.com/thecodeoverlord/daily-intel-reports</link>
     <description>Daily open-source summary of global geopolitics, military and economic affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:30:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/thecodeoverlord/daily-intel-reports/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daily Intel Brief — 15 November 2026</title>
+      <link>https://github.com/thecodeoverlord/daily-intel-reports/blob/main/briefings/2026-11-15.md</link>
+      <guid isPermaLink="false">2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 02:30:00 +0000</pubDate>
+      <description>The trilateral is on for 19 November in Shenzhen — nuclear arms and Iran on the agenda, Ukraine explicitly off it. In parallel, Zelensky disclosed that Washington floated Ukraine ceding the Donbas in exchange for NATO membership. The two tracks are pulling apart: one is great-power theatre, the other a hard territorial bargain Kyiv has not accepted. Nvidia's Jensen Huang resigned over an affair with a woman US intelligence assesses as a Chinese agent. The AI trade is de-rating — Nvidia's sixth straight down week, semiconductors off 3.4% — and the company reports Q3 earnings on 17 November under an interim CEO. A national-security story wearing a market costume. Ukraine's deep-strike campaign is compounding: a tenth Russian refinery hit in two weeks, radar kills that induced Russian friendly fire, and a third fuel crisis in a year. Hormuz added a third tanker-mine claim in 48 hours, while the IAEA says it has lost continuity of knowledge over Iran's enriched-uranium stock. Gaza's ceasefire is being eroded by strikes and winter, not by a formal collapse: 17 states condemned the Nasser Hospital strike, flooding has hit over 100,000 people, and Israel's aid restrictions persist.</description>
+    </item>
     <item>
       <title>Daily Intel Brief — 14 November 2026</title>
       <link>https://github.com/thecodeoverlord/daily-intel-reports/blob/main/briefings/2026-11-14.md</link>
