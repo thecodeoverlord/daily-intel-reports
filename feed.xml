@@ -5,8 +5,15 @@
     <link>https://github.com/thecodeoverlord/daily-intel-reports</link>
     <description>Daily open-source summary of global geopolitics, military and economic affairs.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:18:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/thecodeoverlord/daily-intel-reports/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daily Intel Brief — 16 November 2026</title>
+      <link>https://github.com/thecodeoverlord/daily-intel-reports/blob/main/briefings/2026-11-16.md</link>
+      <guid isPermaLink="false">2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 01:18:00 +0000</pubDate>
+      <description>Trump departed for Manila and Shenzhen ahead of the 19 November trilateral with Xi and Putin, while US envoys held difficult remote Ukraine talks with Kyiv and Europeans — only for Moscow to say the next round will remain strictly trilateral without Europe. Washington closed its third-country AI data-center compute loophole across Singapore, Malaysia, Indonesia, Thailand and Brazil in direct response to the Jensen Huang scandal. Nvidia fell 4.12% to $156.14 and the Nasdaq dropped 2.49% ahead of Tuesday's earnings. Infrastructure warfare escalated in both theatres: Ukrainian drones struck the Kerch Bridge twice inside 24 hours and hit Russia's Ilsky refinery, while Russian ballistic missiles struck two Dnipro bridges in Kyiv; in the Gulf, a third US carrier entered the theatre as UKMTO logged two Hormuz tanker attacks. Google Threat Intelligence Group exposed the first human-out-of-the-loop patch-to-exploit AI framework (exploit_agent), while SpaceX blamed a 'technical issue' for five days of Starshield throttling along Ukraine's front lines.</description>
+    </item>
     <item>
       <title>Daily Intel Brief — 15 November 2026</title>
       <link>https://github.com/thecodeoverlord/daily-intel-reports/blob/main/briefings/2026-11-15.md</link>
