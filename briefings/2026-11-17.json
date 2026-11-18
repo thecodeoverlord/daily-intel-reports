@@ -1,0 +1,511 @@
+{
+  "edition": "2026-11-17",
+  "published": "2026-11-18T17:10:00Z",
+  "window": {
+    "start": "2026-11-17T01:00:00Z",
+    "end": "2026-11-18T05:00:00Z"
+  },
+  "title": "Daily Intel Brief — 17 November 2026",
+  "bluf": [
+    "Ukraine struck the Kerch Strait Bridge for a second straight night, collapsing a section of the automobile road span into the sea while Russian ballistic missiles hit Kyiv's Northern and Southern Dnipro bridges and disrupted water, heating and metro services.",
+    "Under Interim CEO Colette Kress, NVIDIA beat Wall Street with $115.8 billion in Q3 revenue (+103% YoY), $107.6 billion in Data Center sales and $130.0 billion Q4 guidance excluding China — after the Dow fell 1.64% to 50,759 and 10-year Treasury yields climbed to 5.14% during regular trading.",
+    "Trump arrived in Manila for the US–ASEAN Special Summit amid protests over Washington's Pax Silica chip-minerals initiative before heading to Shenzhen for APEC, while EU defence ministers backed Ukraine's plan to double 2027 drone supplies after a €1.71bn Commission disbursement.",
+    "The LPG carrier Tara Gas was abandoned off Oman with one Indian seafarer missing after a second strike as US warplanes bombed an Iranian missile site on Qeshm Island; meanwhile CISA urged immediate patching for Java4Shell (CVE-2026-114938), Equinor confirmed an active cyberattack, and an Optimizely JS attack hit 178 major sites."
+  ],
+  "sections": [
+    {
+      "id": "geopolitics",
+      "title": "Geopolitics",
+      "items": [
+        {
+          "title": "Trump joins US–ASEAN summit in Manila amid Pax Silica protests ahead of APEC",
+          "confidence": "HIGH",
+          "summary": "President Donald Trump arrived in Manila on 17 November for the 49th ASEAN Summit and US–ASEAN Special Summit, holding bilateral talks with Philippine President Ferdinand Marcos Jr. before the Philippines handed the ASEAN chairship to Singapore. Protests accompanied the visit, centering on Washington's Pax Silica critical-minerals and semiconductor supply-chain initiative as leaders prepared to travel onward to Shenzhen for APEC.",
+          "why_it_matters": "Southeast Asian hosts are welcoming US security ties while absorbing domestic pushback and supply-chain pressure right between Washington's new compute-export rules and the Shenzhen summit.",
+          "sources": [
+            {
+              "name": "Philippine News Agency",
+              "title": "Trump in PH for ASEAN Summit, bilateral meet with PBBM",
+              "url": "https://www.pna.gov.ph/article/trump-in-ph-for-asean-summit-bilateral-meet-with-pbbm"
+            },
+            {
+              "name": "ABS-CBN News",
+              "title": "Donald Trump arrives in PH for ASEAN Summit",
+              "url": "https://www.abs-cbn.com/news/nation/2026/11/17/donald-trump-arrives-in-ph-for-asean-summit-1740"
+            },
+            {
+              "name": "TIME",
+              "title": "Philippine Protests Grow as Government Welcomes Trump",
+              "url": "https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/"
+            },
+            {
+              "name": "Newscord",
+              "title": "49th ASEAN Summit concludes in Manila as Marcos hands chairmanship to Singapore",
+              "url": "https://newscord.org/article/49th-asean-summit-concludes-in-manila-as-ferdinand-marcos-jr-hands-chairmanship--Story_20261118_49thASEANSummitconcl457f9b30"
+            }
+          ]
+        },
+        {
+          "title": "EU Defence FAC backs Ukrainian drone scale-up after €1.71bn tranche; Berlin priorities set",
+          "confidence": "HIGH",
+          "summary": "EU defence ministers met in Brussels on 17 November with Ukrainian Defence Minister Yevhenii Khmara — following a €1.71 billion Commission defence disbursement on 16 November under the €90bn Ukraine Support Loan — to back joint European drone production and air defence as Kyiv plans to double drone output in 2027. Separately, President Volodymyr Zelenskyy set Ukraine's priorities for the 19 November Berlin Coalition of the Willing talks covering security guarantees and reconstruction.",
+          "why_it_matters": "Brussels is turning financing pledges into industrial drone-manufacturing agreements on the exact day Moscow tries to sideline Europe from formal talks.",
+          "sources": [
+            {
+              "name": "Ukraine MoD",
+              "title": "Ukraine plans to double drone supplies in 2027",
+              "url": "https://mod.gov.ua/en/news/ukraine-double-drone-supplies-2027"
+            },
+            {
+              "name": "EU Neighbours East",
+              "title": "EU defence ministers exchange views on military support to Ukraine",
+              "url": "https://euneighbourseast.eu/news/latest-news/eu-defence-ministers-exchange-views-on-military-support-to-ukraine/"
+            },
+            {
+              "name": "UNN",
+              "title": "Ukraine sets priorities for Berlin meeting with US and EU",
+              "url": "https://unn.ua/en/news/ukraine-has-set-its-priorities-for-the-next-meeting-in-berlin-with-the-us-and-the-eu-as-well-as-for-formats-involving-the-russian-federation-zelenskyy"
+            }
+          ]
+        },
+        {
+          "title": "Russian military aircraft enter Taiwan's ADIZ after Japanese airspace intrusion",
+          "confidence": "HIGH",
+          "confidence_note": "Primary Taiwan and Japan defence ministry disclosures via Focus Taiwan",
+          "summary": "Two Russian military aircraft briefly entered Japanese territorial airspace northwest of Fukuoka early on 17 November before flying south into Taiwan's eastern Air Defense Identification Zone and exiting south of Taitung, according to Tokyo and Taipei defence authorities. Taiwan's Ministry of National Defense said it monitored the flights with joint ISR assets.",
+          "why_it_matters": "Russian military flights skirting Japan and transiting Taiwan's eastern ADIZ on the eve of the Shenzhen trilateral underline expanding Moscow–Beijing theatre signalling around the First Island Chain.",
+          "sources": [
+            {
+              "name": "Focus Taiwan (CNA)",
+              "title": "Russian military aircraft enter Taiwan's ADIZ: Defense ministry",
+              "url": "https://focustaiwan.tw/politics/202611170014"
+            }
+          ]
+        },
+        {
+          "title": "Israel reiterates rejection of border peacekeepers as UNIFIL withdrawal looms",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on Israeli rejection and UNIFIL timeline · MED on post-UNIFIL alternatives",
+          "summary": "Israeli officials repeated on 17 November that Israel rejects keeping international peacekeepers along the Lebanon border ahead of UNIFIL's 31 December mandate expiry, complicating US and French discussions on post-UNIFIL oversight. Washington continues pressing for Hezbollah disarmament and deployment of the Lebanese Armed Forces south of the Litani.",
+          "why_it_matters": "With less than six weeks before UNIFIL's mandate expires, Israeli opposition narrows the path for any UN-mandated successor force in southern Lebanon.",
+          "sources": [
+            {
+              "name": "The National",
+              "title": "Israel repeats rejection of peacekeepers on Lebanon border as UNIFIL withdrawal looms",
+              "url": "https://www.thenationalnews.com/news/us/2026/11/17/israel-repeats-rejection-of-peacekeepers-on-lebanon-border-as-unifil-withdrawal-looms/"
+            },
+            {
+              "name": "Al-Monitor",
+              "title": "Mike Waltz in Lebanon, presses Hezbollah disarmament as UNIFIL withdrawal looms",
+              "url": "https://www.al-monitor.com/originals/2026/11/mike-waltz-lebanon-presses-hezbollah-disarmament-unifil-withdrawal-looms"
+            }
+          ]
+        },
+        {
+          "title": "Sudan: SAF advances to Al-Morkib, roughly 60 km east of RSF stronghold Al-Nahud",
+          "confidence": "MED",
+          "confidence_note": "Conflict-tracker territorial mapping; front lines remain fluid",
+          "summary": "Updated territorial mapping published on 17 November shows Sudanese Armed Forces and allied troops holding most of North Kordofan and pushing west along the Al-Sadarat highway to Al-Morkib, about 60 kilometres east of the RSF hub of Al-Nahud. The RSF still holds most of West Kordofan and nearly all of Darfur, while UN OCHA reports severe seasonal flooding disrupting returnee corridors toward South Sudan.",
+          "why_it_matters": "Capturing Al-Nahud would open the road toward Darfur, making the remaining 60-kilometre corridor the decisive ground hinge in Kordofan.",
+          "sources": [
+            {
+              "name": "Sudans Post",
+              "title": "Territorial Control Map — Sudan Conflict (as of November 17, 2026)",
+              "url": "https://www.sudanspost.com/territorial-control-map-sudan-conflict-as-of-november-17-2026/"
+            }
+          ]
+        },
+        {
+          "title": "Gaza: winter flooding and shelter blockade persist as makeshift schooling continues",
+          "confidence": "HIGH",
+          "summary": "Humanitarian agencies report winter rains and border restrictions on tents and dual-use recovery supplies continue to leave displaced families exposed across Gaza, with cooking-gas and shelter shortages compounding flooding damage. Relief groups reiterated demands to admit 150,000 stranded tents following the 16 November four-nation ministerial call.",
+          "why_it_matters": "Prolonged border hold-ups on winter shelter items risk turning seasonal weather into a primary driver of displacement breakdown during the stalled ceasefire.",
+          "sources": [
+            {
+              "name": "NRC",
+              "title": "Gaza: People need homes, yet we are begging for tents",
+              "url": "https://www.nrc.no/news/2026/gaza-people-need-homes-yet-we-are-begging-for-tents"
+            },
+            {
+              "name": "Anadolu",
+              "title": "Australia, Canada, Italy, UK urge Israel to allow immediate entry of 150,000 tents, aid into Gaza",
+              "url": "https://m.aa.com.tr/en/americas/australia-canada-italy-uk-urge-israel-to-allow-immediate-entry-of-150-000-tents-aid-into-gaza/4126027"
+            },
+            {
+              "name": "Big News Network",
+              "title": "Mideast — Gaza City education",
+              "url": "https://www.bignewsnetwork.com/news/279439609/mideast-gaza-city-education"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "title": "Military",
+      "items": [
+        {
+          "title": "Kerch Bridge road span collapses into sea after second strike; Kyiv Dnipro bridges hit",
+          "confidence": "MED",
+          "confidence_note": "HIGH on bridge closures and strikes · MED on Kerch weapon attribution and rail-damage extent",
+          "summary": "Shortly after 00:35 Kyiv time on 17 November, a second consecutive night of Ukrainian strikes collapsed a section of the Kerch Strait Bridge automobile roadway into the water and halted road, rail and strait shipping, with unverified social-media video pointing to a Ukrainian Flamingo cruise missile. Less than an hour earlier, Russian ballistic missiles struck Kyiv's Northern and Southern Dnipro bridges, killing at least two and disrupting water, heating and metro services across the capital.",
+          "why_it_matters": "Physical collapse of a Kerch road span marks a major escalation against Russia's Crimean logistics spine, while Russia's retaliation puts Kyiv's own Dnipro crossings and winter utilities under direct ballistic threat.",
+          "sources": [
+            {
+              "name": "CBS News",
+              "title": "Ukraine and Russia trade strikes on key bridges ahead of Putin-Trump-Xi summit",
+              "url": "https://www.cbsnews.com/news/ukraine-war-russia-crimea-kerch-bridge-kyiv/"
+            },
+            {
+              "name": "Euromaidan Press",
+              "title": "One arch left standing: Ukraine's second strike in two days sends road span of Kerch Bridge into the sea",
+              "url": "https://euromaidanpress.com/2026/11/17/one-arch-left-standing-ukraines-second-strike-in-two-days-sends-the-road-span-of-russias-kerch-bridge-into-the-sea/"
+            },
+            {
+              "name": "TVP World",
+              "title": "Putin's Crimea bridge rocked by second Ukrainian strike in 48 hours",
+              "url": "https://tvpworld.com/96520345/ukraine-kerch-bridge-hit-in-crimea-major-oil-plant-in-russia"
+            },
+            {
+              "name": "Nexus Europa",
+              "title": "Kyiv bridges damaged and Russian refinery struck in mutual long-range attacks",
+              "url": "https://nexuseuropa.eu/en/story/kyiv-bridges-damaged-and-russian-refinery-struck-in-mutual-long-range-attacks-26648"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine strikes Salavat refinery 1,500 km inside Russia; 135 front-line clashes",
+          "confidence": "MED",
+          "confidence_note": "Ukrainian military and press reporting; Salavat damage extent unverified independently",
+          "summary": "Ukrainian forces struck the Gazprom Neftekhim Salavat oil refining and petrochemical complex in Bashkortostan — roughly 1,500 km from the border, with 10 million tonnes of annual refining capacity — overnight on 16–17 November, sparking explosions and fire. Along the front lines, Ukraine's General Staff logged 135 combat engagements alongside 90 Russian airstrikes (262 guided bombs) and 9,018 kamikaze drones.",
+          "why_it_matters": "Reaching 1,500 km into Bashkortostan immediately after Krasnodar and Tatarstan hits keeps Russia's refining network under relentless geographic strain even as tactical drone saturation rises past 9,000 sorties a day.",
+          "sources": [
+            {
+              "name": "Ukrainska Pravda",
+              "title": "Ukraine hits major Russian oil refinery in Bashkortostan in 1,500 km long-range strike",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063260/"
+            },
+            {
+              "name": "Ukrinform",
+              "title": "War update: 135 combat engagements on front line over past day",
+              "url": "https://www.ukrinform.net/rubric-ato/4185400-war-update-135-combat-engagements-on-front-line-over-past-day.html"
+            },
+            {
+              "name": "ABP Live",
+              "title": "Ukraine reportedly targets two major Russian oil refineries a day after Kerch bridge strike",
+              "url": "https://news.abplive.com/news/world/ukraine-reportedly-targets-two-major-russian-oil-refineries-a-day-after-kerch-bridge-strike-1876540"
+            }
+          ]
+        },
+        {
+          "title": "LPG carrier Tara Gas abandoned off Oman with one missing; US jets hit Qeshm Island",
+          "confidence": "HIGH",
+          "confidence_note": "HIGH on vessel abandonment, missing crewman and US Qeshm strike · MED on Iranian attribution specifics",
+          "summary": "The Panama-flagged LPG carrier Tara Gas (53,200 dwt) caught fire and was abandoned off Khasab, Oman, on 17 November after a second strike following the initial 16 November attack; 24 Indian crew members were rescued and one Indian seafarer remains missing while authorities warned of explosion risk. Separately, a US official said American warplanes struck an Iranian missile launch site on Qeshm Island as Iran targeted Bahrain for a third time in under a week.",
+          "why_it_matters": "Abandonment of a volatile 53,200-dwt LPG carrier in Omani waters and direct US strikes on Qeshm signal an active kinetic cycle around Hormuz despite calm oil futures.",
+          "sources": [
+            {
+              "name": "Maritime Executive",
+              "title": "LPG Tanker Abandoned Off Oman After Two Strikes and in Danger of Exploding",
+              "url": "https://maritime-executive.com/article/lpg-tanker-abandoned-off-oman-after-two-strikes-and-in-danger-of-exploding"
+            },
+            {
+              "name": "Riviera",
+              "title": "Seafarer missing after LPG carrier hit twice and crew forced to abandon ship in Hormuz",
+              "url": "https://www.rivieramm.com/news-content-hub/seafarer-missing-after-lpg-carrier-hit-twice-and-crew-forced-to-abandon-ship-in-hormuz-90604"
+            },
+            {
+              "name": "Dawn",
+              "title": "Tanker attacked near Hormuz, maritime monitors say",
+              "url": "https://www.dawn.com/news/2045193/tanker-attacked-near-hormuz-maritime-monitors-say"
+            },
+            {
+              "name": "Rigzone",
+              "title": "Oil prices swing as Gulf attacks continue",
+              "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"
+            }
+          ]
+        },
+        {
+          "title": "Taiwan Strait: five PLA aircraft cross median line alongside six PLAN warships",
+          "confidence": "HIGH",
+          "confidence_note": "Primary Taiwan Ministry of National Defense daily bulletin",
+          "summary": "Taiwan's Ministry of National Defense reported five PLA aircraft sorties — all five crossing the median line into the southwestern and eastern ADIZ — along with six PLAN ships and two official vessels in the 24 hours to 06:00 local on 17 November. Taiwan forces tracked the movements using combat air patrols, navy vessels and coastal missile units.",
+          "why_it_matters": "Combined with the two Russian aircraft transiting Taiwan's eastern ADIZ the same morning, allied air-defence assets around Taiwan tracked both Chinese and Russian military aviation in a single 24-hour window.",
+          "sources": [
+            {
+              "name": "Taiwan MND",
+              "title": "PLA activities in the waters and airspace around Taiwan, Nov. 17, 2026",
+              "url": "https://air.mnd.gov.tw/EN/News/News_Detail.aspx?CID=214&ID=59399"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "items": [
+        {
+          "title": "NVIDIA beats on $115.8bn Q3 revenue under interim CEO Kress, guides $130bn Q4 ex-China",
+          "confidence": "HIGH",
+          "summary": "In its first earnings report since Jensen Huang's resignation, NVIDIA posted $115.8 billion in Q3 FY2027 revenue (+103% YoY, +20% QoQ) and $107.6 billion in Data Center sales (+110% YoY) as Vera Rubin NVL72 systems began shipping, with non-GAAP EPS of $2.68 and $28.1 billion returned to shareholders. Interim CEO and CFO Colette Kress guided Q4 revenue to $130.0 billion ±3% (including an extra week) while explicitly assuming zero Data Center compute revenue from China.",
+          "why_it_matters": "Kress delivered triple-digit operational momentum while writing China compute out of Q4 guidance — showing AI capex remains intact even under tighter US export rules and governance turmoil.",
+          "sources": [
+            {
+              "name": "NVIDIA Investor Relations",
+              "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+              "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/"
+            },
+            {
+              "name": "Fortune",
+              "title": "Colette Kress on first Nvidia earnings call without Jensen Huang: 'We've got this'",
+              "url": "https://fortune.com/2026/11/18/nvidia-earnings-q3-interim-ceo-colette-kress/"
+            },
+            {
+              "name": "AI Magazine",
+              "title": "How NVIDIA's US$115.8bn revenue report reassures investors",
+              "url": "https://aimagazine.com/news/how-nvidias-us-115-8bn-report-is-reassuring-ai-investors"
+            }
+          ]
+        },
+        {
+          "title": "Wall Street falls for fourth straight session ahead of NVIDIA print; Dow off 1.64%",
+          "confidence": "HIGH",
+          "summary": "During regular trading on 17 November before NVIDIA's post-close release, the Dow Jones Industrial Average fell 1.64% to 50,759, the S&P 500 dropped 1.03% to 7,341 (its fourth consecutive decline), and the Nasdaq Composite slipped 0.74% to 24,328. Software and healthcare led losses as Salesforce plunged 9.45% and UnitedHealth fell 5.42% amid AI-replacement anxiety, tech-outage jitters and Medicare fraud proposals.",
+          "why_it_matters": "Broad equity weakness outside semiconductors ahead of NVIDIA's report underscores how high rates and AI-disruption fears are pressuring non-hardware sectors.",
+          "sources": [
+            {
+              "name": "Motley Fool",
+              "title": "Stock Market Today, Nov. 17: Stocks slide on AI chip and tech pressures, Salesforce plummets 9%",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"
+            },
+            {
+              "name": "Eurasia Business News",
+              "title": "Stock Market Today, Nov. 17, 2026: Nvidia earnings loom as Dow and Nasdaq slide",
+              "url": "https://eurasiabusinessnews.com/2026/11/17/stock-market-today-november-17-2026-nvidia-earnings-loom-as-wall-street-awaits-first-report-without-jensen-huan-dow-and-nasdaq-slide/"
+            }
+          ]
+        },
+        {
+          "title": "10-year Treasury yield hits 5.14% as traders price aggressive Fed tightening",
+          "confidence": "HIGH",
+          "summary": "The benchmark US 10-year Treasury yield edged up to 5.14% on 17 November — approaching its longest stretch above 5% since 2007 (27th session in 2026) — before easing slightly to 5.11% by the equity close after moderated October retail sales. Money-market traders are fully pricing a 25bp hike at the 9 December FOMC meeting and more than 80bp of cumulative tightening by September 2027.",
+          "why_it_matters": "Sustained >5.1% long-end yields tighten financial conditions for equities and sovereign borrowers just as Anthropic prepares a major Nasdaq IPO test.",
+          "sources": [
+            {
+              "name": "The Edge Malaysia",
+              "title": "US 10-year yield set for historic run above 5% on Fed rate cycle",
+              "url": "https://theedgemalaysia.com/node/826232"
+            },
+            {
+              "name": "Motley Fool",
+              "title": "Stock Market Today, Nov. 17: 10-year yield and closing snapshot",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"
+            },
+            {
+              "name": "QUE.com",
+              "title": "Anthropic IPO tests market nerves as Treasury yields hit 5 percent",
+              "url": "https://que.com/anthropic-ipo-tests-market-nerves-as-treasury-yields-hit-5-percent/"
+            }
+          ]
+        },
+        {
+          "title": "Oil whipsaws near $93 Brent as Hormuz ship strikes clash with surplus supply",
+          "confidence": "HIGH",
+          "summary": "Brent crude settled marginally higher near $93 a barrel on Tuesday after swinging in a roughly $3 intraday range (with intraday WTI near $85.87), caught between fresh Hormuz tanker attacks and IEA/supply surplus expectations. Rigzone notes US retail gasoline fell to its lowest since March and retail diesel dropped below $6 a gallon for the first time since early September, though TankerTrackers flagged shrinking empty-tanker arrivals in the Gulf.",
+          "why_it_matters": "Declining empty-tanker traffic into the Gulf suggests physical export logistics may tighten again if the Tara Gas abandonment deters commercial owners.",
+          "sources": [
+            {
+              "name": "Rigzone",
+              "title": "Oil prices swing as Gulf attacks continue",
+              "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"
+            },
+            {
+              "name": "5paisa",
+              "title": "Crude Oil Price Today: Brent at $92.67, WTI at $85.87 in live trade on November 17",
+              "url": "https://www.5paisa.com/blog/crude-oil-price-today-17-november-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "title": "Cyber / Space / Critical Infrastructure",
+      "items": [
+        {
+          "title": "CISA urges immediate patching of 'Java4Shell' (CVE-2026-114938); adds Puppet Enterprise to KEV",
+          "confidence": "HIGH",
+          "summary": "CISA issued an urgent 17 November advisory warning defenders to patch CVE-2026-114938 ('Java4Shell'), a critical memory-corruption flaw in the x86-64 HotSpot JVM Base64 decoder affecting JDKs and major tools like Jenkins, Jira, Confluence and Keycloak that allows crashes or unauthenticated remote code execution. The same day, CISA added actively exploited Perforce Puppet Enterprise deserialization bug CVE-2026-115731 to its KEV catalog under BOD 26-04, alongside six Siemens ICS advisories.",
+          "why_it_matters": "A JVM-level Base64 RCE flaw hits foundational enterprise CI/CD and identity infrastructure right after GTIG exposed automated patch-to-exploit AI agents.",
+          "sources": [
+            {
+              "name": "CISA",
+              "title": "Critical Java Vulnerability Requires Immediate Patching (CVE-2026-114938)",
+              "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching"
+            },
+            {
+              "name": "CISA",
+              "title": "CISA Adds One Known Exploited Vulnerability to Catalog (CVE-2026-115731)",
+              "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+            },
+            {
+              "name": "The Hacker News",
+              "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+              "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
+            },
+            {
+              "name": "ThreatDefence",
+              "title": "Java4Shell CVE-2026-114938: Java 17 to 27 Fixes and Hunting",
+              "url": "https://threatdefence.com/article/java4shell-cve-2026-114938-openjdk-rce-patching-hunting"
+            },
+            {
+              "name": "SecurityWeek",
+              "title": "Java4Shell CVE-2026-114938 Security Vulnerability Overview",
+              "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/"
+            }
+          ]
+        },
+        {
+          "title": "Optimizely third-party JavaScript supply-chain attack hits 178 major websites",
+          "confidence": "HIGH",
+          "summary": "Researchers disclosed on 17 November that attackers exploited a flaw in Optimizely's Web Experimentation platform to inject malicious JavaScript across roughly 178 major sites — including CNN, BBC, Zoom, HSBC, IKEA and Salesforce — on 16 November. Uncovered by Report URI's Scott Helme, the injected script attempted to skim checkout cards, swap cryptocurrency wallet addresses and deliver iPhone exploit payloads.",
+          "why_it_matters": "Compromising a single A/B-testing tag vendor gave attackers immediate client-side code execution across top-tier media, financial and SaaS domains.",
+          "sources": [
+            {
+              "name": "Entrepreneur",
+              "title": "A cyberattack hit 178 websites, including Zoom, CNN and IKEA",
+              "url": "https://www.entrepreneur.com/business-news/malicious-cyberattack-on-178-major-websites-tried-to-steal-credit-cards-and-crypto-heres-what-you-should-do-immediately"
+            },
+            {
+              "name": "Livemint",
+              "title": "Cyberattack hits 178 websites including CNN, BBC, Fox News and Zoom",
+              "url": "https://www.livemint.com/technology/tech-news/cyberattack-hits-178-websites-including-cnn-bbc-fox-news-and-zoom-iphone-users-also-targeted-11794907274632.html"
+            },
+            {
+              "name": "ClickOnDetroit",
+              "title": "Cyberattack targets Optimizely, third-party software used by major websites",
+              "url": "https://www.clickondetroit.com/news/local/2026/11/17/cyberattack-targets-optimizely-third-party-software-used-by-major-websites/"
+            }
+          ]
+        },
+        {
+          "title": "Norwegian energy giant Equinor confirms active cyberattack on IT systems",
+          "confidence": "HIGH",
+          "confidence_note": "Primary company disclosure; technical intrusion vector not yet public",
+          "summary": "Equinor announced at 18:55 CET on 17 November that it detected an ongoing cyberattack targeting specific IT systems and is working with national security authorities to neutralise it. The company said the intrusion is not a self-propagating virus and that oil and gas production remains unaffected.",
+          "why_it_matters": "An active intrusion inside Europe's largest gas supplier warrants close monitoring even with OT/production currently isolated.",
+          "sources": [
+            {
+              "name": "Equinor",
+              "title": "Equinor detected cyber-attack",
+              "url": "https://www.equinor.com/news/20261711-equinor-detected-cyber-attack"
+            }
+          ]
+        },
+        {
+          "title": "US officials rule out cyberattack across week of outages; classified network outage reported",
+          "confidence": "MED",
+          "confidence_note": "Multiple outlets citing officials and CNN; root-cause specifics for 16–17 Nov outages remain limited",
+          "summary": "US officials stated there is no evidence of coordinated cyberattacks across six separate technology disruptions between 12 and 17 November — affecting Microsoft 365, the FAA (attributed to a routing overload during an L3Harris router upgrade), JPMorgan Chase, United Airlines, Apple and a classified national-security communications network at the NSA. Authorities also debunked viral social-media rumors predicting a 17 November nationwide blackout.",
+          "why_it_matters": "Clustered technical failures across telecom upgrades and classified/financial networks are creating persistent fragility and disinformation spikes even without an adversary trigger.",
+          "sources": [
+            {
+              "name": "CNN",
+              "title": "Highly classified national security communications network goes down",
+              "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+            },
+            {
+              "name": "Shattered.io",
+              "title": "US rules out cyberattack after 6 tech disruptions (Nov 12–17)",
+              "url": "https://shattered.io/us-rules-out-cyberattack-six-technology-disruptions-nov-12-17/"
+            },
+            {
+              "name": "AroundPrague",
+              "title": "Officials pin U.S. ground stop on router upgrade, press contractor L3Harris",
+              "url": "https://aroundprague.cz/en/news/us/officials-pin-u-s-ground-stop-on-router-upgrade-press-contractor-l3harris"
+            }
+          ]
+        },
+        {
+          "title": "US extradites '8-Digits Team' ransomware suspect linked to $500m extortion demands",
+          "confidence": "HIGH",
+          "summary": "The US Department of Justice announced the extradition from Italy of 43-year-old Kazakh national Roman Khlynovskiy over his alleged role in the '8-Digits Team' ransomware group affiliated with INC and Lynx operations. Prosecutors link the conspiracy to intrusions and extortion demands exceeding $500 million against US hospitals, schools and healthcare entities.",
+          "why_it_matters": "Continued European-US extraditions of mid-tier affiliates raise legal pressure on RaaS ecosystems even as overall ransomware volume hits record monthly highs.",
+          "sources": [
+            {
+              "name": "Help Net Security",
+              "title": "Suspected ransomware affiliate extradited to US over $500 million in extortion demands",
+              "url": "https://www.helpnetsecurity.com/2026/11/17/8-digits-team-ransomware-suspect-extradited-us-italy/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "when": "18–19 Nov",
+      "what": "APEC Shenzhen and 19 Nov Trump–Xi–Putin trilateral",
+      "why": "Nuclear arms control, Iran, and whether Ukraine enters the leaders' room"
+    },
+    {
+      "when": "18 Nov",
+      "what": "Post-earnings reaction to NVIDIA's $115.8bn Q3 beat and $130bn ex-China outlook",
+      "why": "Tests whether strong fundamentals outweigh leadership turmoil and BIS export curbs"
+    },
+    {
+      "when": "19 Nov",
+      "what": "Coalition of the Willing summit, Berlin",
+      "why": "European-Ukrainian alignment on security guarantees while Moscow resists Europe's seat"
+    },
+    {
+      "when": "20 Nov",
+      "what": "EU–UK summit, Brussels",
+      "why": "2027 Ukraine defence-financing bill ahead of next week's European Council"
+    },
+    {
+      "when": "26–27 Nov",
+      "what": "European Council — 22nd Russia sanctions package and 2027 Ukraine funding",
+      "why": "Formal vote on combatant entry bans and budget gap"
+    },
+    {
+      "when": "9 Dec",
+      "what": "FOMC rate decision (plus upcoming minutes)",
+      "why": "Market fully pricing +25bp after 10Y yield hit 5.14%"
+    },
+    {
+      "when": "31 Dec",
+      "what": "UNIFIL mandate expires in southern Lebanon",
+      "why": "Israel's rejection of border peacekeepers narrows successor options"
+    },
+    {
+      "when": "Ongoing",
+      "what": "Strait of Hormuz — Tara Gas salvage/explosion risk and Qeshm escalation",
+      "why": "Falling empty-tanker arrivals could reverse oil's surplus discount"
+    },
+    {
+      "when": "Ongoing",
+      "what": "Java4Shell (CVE-2026-114938) & Equinor cyberattack containment",
+      "why": "Watch for active Java4Shell exploit waves and Equinor technical attribution"
+    }
+  ],
+  "sourcing": {
+    "method": "10 targeted web searches followed by direct HTTP resolution and inspection of primary press releases, regulatory alerts and article bodies across a 28-hour window (17 Nov 01:00Z to 18 Nov 05:00Z).",
+    "primary": [
+      "NVIDIA Q3 FY2027 earnings press release (17 Nov 2026)",
+      "CISA Java4Shell alert (CVE-2026-114938) and Puppet Enterprise KEV alert (CVE-2026-115731)",
+      "Equinor cyberattack disclosure (17 Nov 2026)",
+      "Ministry of Defence of Ukraine drone-supply statement (17 Nov 2026)",
+      "Taiwan Ministry of National Defense daily PLA bulletin (17 Nov 2026)"
+    ],
+    "gaps": [
+      "US War Department (war.gov), Ukrainian Presidential Office (president.gov.ua), ISW Iran Update and Forbes returned HTTP 403 to scripted fetches; reporting was corroborated via EU Neighbours East, UNN, Rigzone and NVIDIA primary disclosures.",
+      "Kerch Bridge rail-track damage and Flamingo missile attribution rest on OSINT channels and Russian milbloggers without independent engineering inspection.",
+      "Salavat refinery damage extent and Equinor's initial intrusion vector remain undisclosed.",
+      "Exact regular-session Brent/WTI settlement print on 17 November varied slightly across feeds (reported near $93 Brent and ~$85.87 intraday WTI)."
+    ]
+  },
+  "corrections": null
+}
